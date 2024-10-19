@@ -8,7 +8,7 @@ This repository contains the homework assignments for [M7DataSP Advanced Data Sc
 - Michaela Hulmanová
 - Dominik Jirotka
 - Nikol Krajcarová
- -Nikola Stehlíková
+- Nikola Stehlíková
 
 ## License
 
